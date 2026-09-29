@@ -5,5 +5,5 @@ function showNextSkill() {
     alert("Next: JavaScript");
 }
 function showNextSkill() {
-    alert("I can learn development one project at a time!");
+    alert("I can learn software development one project at a time!");
 }

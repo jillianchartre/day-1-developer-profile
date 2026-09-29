@@ -4,3 +4,6 @@ function showMessage() {
 function showNextSkill() {
     alert("Next: JavaScript");
 }
+function showNextSkill() {
+    alert("I can learn development one project at a time!");
+}

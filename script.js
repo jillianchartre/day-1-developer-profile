@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("I am going to become a software developer!");
+    alert("My goal is to become a junior software developer in 2 months!");
 }
